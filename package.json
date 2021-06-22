@@ -20,6 +20,9 @@
     "@angular/platform-browser-dynamic": "~10.2.0",
     "@angular/router": "~10.2.0",
     "rxjs": "~6.6.0",
+    "mapbox-gl": "^1.5.0",
+    "ngx-socket-io": "^3.2.0",
+    "socket.io-client": "^2.1.1",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
@@ -27,6 +30,7 @@
     "@angular-devkit/build-angular": "~0.1002.0",
     "@angular/cli": "~10.2.0",
     "@angular/compiler-cli": "~10.2.0",
+    "@types/mapbox-gl": "^1.5.2",
     "@types/node": "^12.11.1",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
